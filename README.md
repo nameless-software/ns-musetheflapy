@@ -1,1 +1,1 @@
-initial README.md
+Up until this commit was me experimenting with rebases and branches and trying to figure out a workflow for the project seperating frontend and backend into seperate branches, and uploading to gh. going to keep doing this but as a local method. 
